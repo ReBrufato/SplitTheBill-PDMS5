@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SplitTheBill</string>
+    <string name="nome">Nome:</string>
+    <string name="valor_pago">Valor Pago:</string>
+    <string name="nomeEt">Nome do integrante</string>
+    <string name="digite_o_valor_pago">Digite o valor pago</string>
+    <string name="adicionar_integrante">Adicionar Integrante</string>
+    <string name="itens_comprados">Itens comprados</string>
+    <string name="remover_integrante">Remover Integrante</string>
+    <string name="edit_integrante">Edit Integrante</string>
+    <string name="salvar">Salvar</string>
+    <string name="valor_a_pagar">Valor a pagar:</string>
+    <string name="valor_a_receber">Valor a receber:</string>
+    <string name="detalhes_do_racha">Detalhes do racha</string>
+</resources>
