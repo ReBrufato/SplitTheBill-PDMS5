@@ -10,3 +10,5 @@ integrantes da lista.
 Por fim o aplicativo deve ter uma funcionalidade que permita fazer o racha entre os
 participantes dizendo quanto cada um precisa receber e quanto cada um deve ao grupo, que será exibido em outra tela. 
 Para saber o que foi comprado é necessário abrir uma tela dedetalhes clicando na célula correspondente.
+
+Em SplitTheBill_FUncionamento.mp4 é possível ver um pequeno vídeo do aplicativo em funcionamento
